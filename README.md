@@ -157,6 +157,18 @@ fisiología cardiovascular.
 
 ------------------------------------------------------------------------
 
+
+## Descripción detallada del sistema
+
+El sistema estudiado corresponde al sistema cardiovascular, específicamente al comportamiento hemodinámico de la circulación arterial. Para representar su dinámica se utiliza el modelo Windkessel de cuatro elementos, el cual permite describir la relación entre la presión y el flujo sanguíneo mediante parámetros que representan las propiedades físicas de los vasos sanguíneos y la sangre.
+
+El modelo está compuesto por cuatro elementos: la impedancia característica (Z), que representa la oposición inicial al flujo sanguíneo; la distensibilidad arterial (C), relacionada con la capacidad de las arterias para expandirse ante los cambios de presión; la resistencia periférica (R), que representa la oposición al flujo sanguíneo en los vasos periféricos; y la inertancia sanguínea (L), asociada con la oposición a los cambios en el flujo debido a la inercia de la sangre.
+
+A partir de estos elementos, se estudian tres condiciones cardiovasculares: hipotensa, normotensa e hipertensa. Para ello, se utilizan diferentes valores de los parámetros del modelo y se comparan sus respuestas mediante simulaciones computacionales. La implementación se realiza utilizando MATLAB, Simulink, Simscape Electrical y Python, con el propósito de analizar el comportamiento dinámico del sistema y verificar la consistencia de los resultados obtenidos mediante distintas representaciones.
+
+**Palabras clave:** sistema cardiovascular, modelo Windkessel, presión arterial, flujo sanguíneo, hemodinámica, distensibilidad arterial, resistencia periférica, inertancia sanguínea, modelado de sistemas fisiológicos y simulación computacional.
+
+
 `<a id="analogia">`{=html}`</a>`{=html} \## Modelo físico y analogía
 eléctrica
 
