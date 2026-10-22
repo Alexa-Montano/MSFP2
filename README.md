@@ -1,5 +1,4 @@
-[![Open in MATLAB
-Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/MSFBP0)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Alexa-Montano/MSFP2)
 
 # Práctica 2 --- Modelado y control del sistema cardiovascular mediante el modelo Windkessel
 
@@ -24,8 +23,8 @@ independiente para reducir sus diferencias respecto a dicha referencia.
 de Tijuana\
 **Asignatura:** Modelado de Sistemas Fisiológicos\
 **Programa:** Ingeniería Biomédica\
-**Estudiante:** Nombre completo · Número de control ·
-correo@tijuana.tecnm.mx
+**Estudiante:** Alexa Montaño Gomez · 23212215 ·
+L23212215@tijuana.tecnm.mx
 
 **Repositorio de la asignatura:**
 https://github.com/DrPaulValle/MSF-IBF1020\
